@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .box-group {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .box {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  
